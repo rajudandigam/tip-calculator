@@ -1,0 +1,8 @@
+{
+  "name": "tip-calculator",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/rajudandigam/tip-calculator.git",
+  "author": "Raju Dandigam <raju0574@gmail.com>",
+  "license": "MIT"
+}
